@@ -17,3 +17,6 @@ for item in [1, 2, 3, 4, 5]:
         break
     print(item)
     a += 1
+
+for i in range(1,11):
+    print(i)
